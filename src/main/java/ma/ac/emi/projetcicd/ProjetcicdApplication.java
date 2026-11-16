@@ -16,4 +16,6 @@ public class ProjetcicdApplication {
 
     test2() {System.out.println("modification 2");}
 
+    testrebase() {System.out.println("rebased mod");}
+
 }
