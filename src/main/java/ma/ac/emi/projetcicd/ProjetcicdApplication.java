@@ -14,4 +14,6 @@ public class ProjetcicdApplication {
         System.out.println("modification");
     }
 
+    test2() {System.out.println("modification 2");}
+
 }
